@@ -26,6 +26,7 @@ This project was built while following a course on Udemy as part of a training t
 
 ## 🚀 Getting Started
 
+- Live Site - [Drag & Drop](https://drag-drop-lake.vercel.app/)
 
 ## 👨‍💻 Author
 
